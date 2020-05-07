@@ -11,18 +11,58 @@
 %------------------------------
 % !TEX root =  Documento_TG.tex
 
-\chapterbegin{Introducción y visión general}
+\chapterbegin{Preliminares}
 \minitoc
 
 \section{Planteamiento del problema}
+La posición geográfica y las condiciones climáticas le dan a Colombia una condición privilegiada que le permite ser competitiva en el mercado floricultor. No en vano, se ubica como uno de los líderes en producción y cultivo de flores, ocupando el segundo lugar a nivel mundial. La floricultura representa, después del café, la principal actividad agropecuaria no tradicional del país.
+En menos de 35 años Colombia ha logrado ser el segundo país exportador de flores, con una participación del 15 \% en el comercio total siguiendo a Holanda cuya participación total es del 47 \%.  Este sector genera un importante ingreso de divisas al país con alrededor de 1.400 millones de dólares en 2017, aporta el 17\% del impuesto de renta del agro colombiano y representa el 75\% de la carga aérea nacional exportada. (Ministerio de agricultura de Colombia, 2017) (ASOCOLFLORES, 2009) 
+El sector floricultor colombiano se encuentra en capacidad de exportar el 95\% de la producción total de flores, sin embargo, esto hace al sector altamente dependiente de las fluctuaciones de divisas. Es tal la vulnerabilidad, que la rentabilidad del sector se ha visto seriamente perjudicada por prolongadas devaluaciones del peso frente al dólar; situación que lleva a los floricultores a adquirir mayores créditos en el sector financiero para cubrir los costos generados principalmente en los procesos productivos y logísticos. Esta situación se agravó con la devaluación presentada entre los años 2003 y mediados del 2011, la cual condujo a que muchas empresas del sector se vieran obligadas a reestructurarse, reorganizarse o en casos extremos, a liquidarse. (FENALCO, 2017) 
+Otras desventajas destacadas que posee el sector floricultor en Colombia son:
+\begin{itemize}
+	\item Baja utilización de cambio técnico y poca investigación y desarrollo de nuevas variedades y técnicas de producción a nivel nacional.
+	\item Lo anterior lleva a que los requerimientos de innovación de la producción nacional dependan de las importaciones de esquejes, que son desarrollados por competidores tales como Holanda e Israel, que realizan grandes inversiones en investigación y desarrollo. 
+	\item Descalce entre los ingresos y gastos de las empresas del sector; en tanto que los ingresos dependen del comportamiento de los precios internacionales de las flores y de la tasa de cambio, los principales gastos están sujetos a la variación de los precios internos en el caso de los gastos en mano de obra.
+	\item El fortalecimiento de competidores como Kenia y Etiopía, que cuentan con mano de obra de hasta cinco (5) veces más barata afectan la competitividad del sector frente a otros exportadores de flores en el mundo. (Arroyave, 2012) 
+\end{itemize}
 
-\section{Objetivo}
-\label{sec:intro:obj}
-En esta sección, se describe el \miindex{objetivo del proyecto}, es decir, qué pretende, a qué aspira, cuál es su meta. Es importante comprender esta sección, porque de otro modo, no se entiende el resto de la documentación.
+\section{Objetivos}
 
+\subsection{Objetivo General}
+Prototipar un sistema semiautomático para la clasificación, empaque y monitoreo en postcosecha de hortensias. 
+\subsection{Objetivos Especificos}
+\begin{itemize}
+	\item Desarrollar un sistema mecatrónico para el empaque individual en capuchón de Hortensias.
+	\item Desarrollar un sistema mecatrónico para la clasificación individual de Hortensias según color y apertura del botón.
+	\item Desarrollar un sistema mecatrónico que permita monitorear visualmente las Hortensias en postcosecha y almacenar esta información.
+	\item Diseñar el proceso de empaque, clasificación y monitoreo de acuardo con las necesidades en post cosecha de hortensias de los floricultores del Oriente Antioqueño.
+	\item Evaluar el desempeño del prototipo en campo mediante las variables de tiempo gastado en procesar una Hortensia individual y porcentaje de fiabilidad.
+	
+\end{itemize}
 \section{Estado del arte}
 
-Un proyecto se realiza sobre un \miindex{estado de la técnica} que debe explicarse para entender mejor conceptos tales como los problemas existentes o cuáles son las soluciones que se emplean hasta la fecha actual. El \miindex{estado del arte}, a veces llamado estado de la técnica, suele estar presente en este tipo de documentos.
+\subsection{Furora nova, sistema de procesamiento automático de todo tipo de flores }
 
+Es una máquina producida por la empresa holandesa Bercomex que agrupa, encapucha y clasifica varios tipos de flores de forma automática. Cuenta con 5 cámaras de clasificación que con visión artificial miden longitud, grosor del tallo, el tamaño y el color de la umbela. Puede clasificar diferentes tipos de flor, tales como Crisantemos, Claveles, Tulipanes, Lirios y otros. Trabaja a partir de una banda recoge los tallos a granel y los entrega automáticamente al carrusel de clasificación, corte y agrupación. La máquina entrega los ramos clasificados sobre una banda de procesamiento para su atado y encapuchado automático con rendimiento de hasta 11000 tallos por hora.  (ipack, 2019) 
+
+\subsection{Furora compact, sistema de procesamiento automático de tulipanes }
+
+Es una máquina producida por la empresa holandesa Bercomex similar a la furora nova, que se diferencia por especializarse en tulipanes y en usar cámaras de rayos x para un mejor detalle  (Bercomex, 2020). 
+
+\subsection{Rosematic, sistema de procesamiento automático de rosas}
+
+Es una máquina producida por la empresa holandesa Bercomex que posee 2 cámaras infrarrojas y 2 de color que con visión artificial las de color miden longitud, grosor del tallo, el tamaño del botón, las infrarrojas escanean el color del botón, la máquina deshoja la rosa y la clasifica ubicándola en unas bases metálicas donde un operario después puede acceder a ellas fácilmente, procesa 9000 tallos por hora. Cuenta además con un módulo de luz UV que previene y detecta patologías como botrytis (Bercomex, 2020). 
+
+\subsection{Máquina para la selección de esquejes en el Oriente Antioqueño} 
+
+Este proyecto se realizó en el 2018 y está centrado en la creación de un sistema de visión artificial que examina los esquejes en una banda transportadora, el sistema procesa los datos seleccionando los esquejes para las características de flor que buscan (Cifuentes, 2018). 
+
+\subsection{CuttingTEC}
+
+Es una máquina para el corte asistido de flores incluidas hortensias de la empresa Tecondor, empresa dedicada a la solución tecnológica en el agro en Colombia, en esta máquina las flores son ubicadas en una canaleta con movimiento lineal la cual cuenta con un sistema de medida para obtener el largo deseado en las flores. La canaleta es deslizada hasta que un disco realiza el corte de los tallos (Tecondor, 2019). 
+
+\subsection{Conclusiones etapa antecedentes:}
+
+En Colombia hay poco desarrollo local de sistemas automáticos o semiautomáticos para el procesamiento de flores en general, los cultivos que implementan tecnologías de este tipo tienden a importarlas debido a que es escasa la oferta de equipos profesionales y comerciales locales. Esta situación es mucho más notoria en el cultivo de Hortensias, lo evidencian que hasta la fecha y hasta nuestra búsqueda no se encontraron en el exterior ni a nivel local máquinas especializadas en la post cosecha de hortensias. Esta situación es crítica para el Oriente Antioqueño debido a que es la principal flor que se cultiva en esta región del país y a sus necesidades específicas que generan su topografía. Esto también evidencia la gran oportunidad de nuevos desarrollos en este sector.  
 
 \chapterend

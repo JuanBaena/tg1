@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Documento LaTeX 											%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Título:	Plantilla de TFG/TFM
+% Título:	Plantilla de TFG
 % Autor:  Carlos Andres Goez, Juan Pablo Baena 
 % Fecha:  2020-03-12
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -9,7 +9,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %-----------------------------------------------------------------%
 % Clase de documento: libro
-\documentclass[12pt,a4paper]{book} % article, report, book.
+\documentclass[10pt,a4paper]{book} % article, report, book.
 
 % Preámbulo: paquetes, comandos, entornos, estilos y título de página.
 \input{PAQUETES.tex}
@@ -24,24 +24,16 @@
 % Formato de documento hasta el capítulo 1 (sin incluirlo)
 \frontmatter
 
-% Los tres ficheros siguientes simulan el formato de las páginas
-% iniciales que también puedes descargar en word de la web de la ETSIT.
-%
-% Portada.
 \input{Portada.tex}
 
 % Resumen del TFG en español
-\input{Resumen_ESP.tex}
+%\input{Resumen_ESP.tex}
 
 % Resumen del TFG en inglés
-\input{Resumen_ENG.tex}
-
-% Los dos siguientes archivos son opcionales
-% Coméntalos si no los quieres usar
-
+%\input{Resumen_ENG.tex}
 
 % Agradecimientos.
-\input{Agradecimientos.tex}
+%\input{Agradecimientos.tex}
 
 % Tabla de contenidos, figuras y tablas.
 \input{Tabla_Contenido.tex}
@@ -51,13 +43,11 @@
 % Formato de documento durante los capítulos.
 \mainmatter
 
-% Prólogo. Opcional
-%\input{B5.Prologo.tex}
 
-% Parte I. Introducción
 %\part{Introducción}
 
 % Capítulo 01. Introducción y objetivo
+
 \input{Introduccion.tex}
 
 %\part{Preliminares}
@@ -85,18 +75,16 @@
 % Conclusiones del proyecto
 \input{Conclusiones.tex}
 
-%\input{D2.AppendixB.tex}
-
-%\input{D3.AppendixC.tex}
-
+\appendix
+\input{Anexos.tex}
 % Formato de documento en la parte final.
 \backmatter
 %Hace que los capítulos y títulos nivel inferior no aparezcan numerados (lo que es ideal para conclusiones o notas finales).
 
 % Bibliografía
+
 \input{Bibliografia.tex}
 
-\input{Anexos.tex}
 	
 \end{document}
 

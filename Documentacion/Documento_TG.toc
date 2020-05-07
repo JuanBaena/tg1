@@ -1,21 +1,33 @@
 \babel@toc {spanish}{}
-\contentsline {starchapter}{Resumen}{\es@scroman {iii}}{Doc-Start}
-\contentsline {starchapter}{Abstract}{\es@scroman {v}}{Doc-Start}
-\contentsline {starchapter}{Agradecimientos}{\es@scroman {vii}}{chapter*.1}
-\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n y visi\IeC {\'o}n general}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Planteamiento del problema}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Objetivo}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Estado del arte}{1}{section.1.3}
-\contentsline {chapter}{\numberline {2}T\IeC {\'\i }tulo del cap\IeC {\'\i }tulo}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{3}{section.2.2}
-\contentsline {chapter}{\numberline {3}T\IeC {\'\i }tulo del cap\IeC {\'\i }tulo}{5}{chapter.3}
-\contentsline {section}{\numberline {3.1}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{5}{section.3.1}
-\contentsline {section}{\numberline {3.2}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{5}{section.3.2}
-\contentsline {chapter}{\numberline {4}T\IeC {\'\i }tulo del cap\IeC {\'\i }tulo}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}T\IeC {\'\i }tulo de la secci\IeC {\'o}n}{7}{section.4.2}
-\contentsline {starchapter}{Conclusiones y l\IeC {\'\i }neas futuras}{9}{chapter*.5}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{11}{chapter*.6}
-\contentsline {starchapter}{ANEXO 1}{13}{chapter*.7}
+\contentsline {chapter}{\numberline {1}Preliminares}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Planteamiento del problema}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Objetivo General}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos Especificos}{5}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Estado del arte}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Furora nova, sistema de procesamiento automático de todo tipo de flores }{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Furora compact, sistema de procesamiento automático de tulipanes }{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Rosematic, sistema de procesamiento automático de rosas}{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Máquina para la selección de esquejes en el Oriente Antioqueño}{6}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}CuttingTEC}{7}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Conclusiones etapa antecedentes:}{7}{subsection.1.3.6}%
+\contentsline {chapter}{\numberline {2}Metodología}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Planeación}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Desarrollo del concepto}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Diseño a nivel sistema}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Diseño de detalle}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Pruebas y refinamiento}{10}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Desarrollo}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Identificación de necesidades }{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Diseño de concepto}{13}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Matriz morfológica}{14}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Selección de concepto}{23}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Diagrama de bloques del sistema}{26}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Título del capítulo}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Título de la sección}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Título de la sección}{31}{section.4.2}%
+\contentsline {starchapter}{Conclusiones y líneas futuras}{33}{chapter*.22}%
+\contentsline {chapter}{\numberline {A}ANEXOS}{35}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}ANEXO}{35}{section.Alph1.1}%
+\contentsline {chapter}{Bibliografía}{37}{appendix*.23}%
 \contentsfinish 

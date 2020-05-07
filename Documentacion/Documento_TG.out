@@ -1,19 +1,31 @@
-\BOOKMARK [0][-]{Doc-Start}{Resumen}{}% 1
-\BOOKMARK [0][-]{Doc-Start}{Abstract}{}% 2
-\BOOKMARK [0][-]{chapter*.1}{Agradecimientos}{}% 3
-\BOOKMARK [0][-]{chapter.1}{1 Introducci\363n y visi\363n general}{}% 4
-\BOOKMARK [1][-]{section.1.1}{1.1 Planteamiento del problema}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.2}{1.2 Objetivo}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.3}{1.3 Estado del arte}{chapter.1}% 7
-\BOOKMARK [0][-]{chapter.2}{2 T\355tulo del cap\355tulo}{}% 8
-\BOOKMARK [1][-]{section.2.1}{2.1 T\355tulo de la secci\363n}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.2}{2.2 T\355tulo de la secci\363n}{chapter.2}% 10
-\BOOKMARK [0][-]{chapter.3}{3 T\355tulo del cap\355tulo}{}% 11
-\BOOKMARK [1][-]{section.3.1}{3.1 T\355tulo de la secci\363n}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.2}{3.2 T\355tulo de la secci\363n}{chapter.3}% 13
-\BOOKMARK [0][-]{chapter.4}{4 T\355tulo del cap\355tulo}{}% 14
-\BOOKMARK [1][-]{section.4.1}{4.1 T\355tulo de la secci\363n}{chapter.4}% 15
-\BOOKMARK [1][-]{section.4.2}{4.2 T\355tulo de la secci\363n}{chapter.4}% 16
-\BOOKMARK [0][-]{chapter*.5}{Conclusiones y l\355neas futuras}{}% 17
-\BOOKMARK [0][-]{chapter*.6}{Bibliograf\355a}{}% 18
-\BOOKMARK [0][-]{chapter*.7}{ANEXO 1}{}% 19
+\BOOKMARK [0][-]{chapter.1}{1 Preliminares}{}% 1
+\BOOKMARK [1][-]{section.1.1}{1.1 Planteamiento del problema}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{1.2 Objetivos}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 Objetivo General}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 Objetivos Especificos}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.3}{1.3 Estado del arte}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Furora nova, sistema de procesamiento autom\341tico de todo tipo de flores }{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Furora compact, sistema de procesamiento autom\341tico de tulipanes }{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Rosematic, sistema de procesamiento autom\341tico de rosas}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.4}{1.3.4 M\341quina para la selecci\363n de esquejes en el Oriente Antioque\361o}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.5}{1.3.5 CuttingTEC}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.6}{1.3.6 Conclusiones etapa antecedentes:}{section.1.3}% 12
+\BOOKMARK [0][-]{chapter.2}{2 Metodolog\355a}{}% 13
+\BOOKMARK [1][-]{section.2.1}{2.1 Planeaci\363n}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{2.2 Desarrollo del concepto}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.3}{2.3 Dise\361o a nivel sistema}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.4}{2.4 Dise\361o de detalle}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{2.5 Pruebas y refinamiento}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{3 Desarrollo}{}% 19
+\BOOKMARK [1][-]{section.3.1}{3.1 Identificaci\363n de necesidades }{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{3.2 Dise\361o de concepto}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Matriz morfol\363gica}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Selecci\363n de concepto}{section.3.2}% 23
+\BOOKMARK [1][-]{section.3.3}{3.3 Diagrama de bloques del sistema}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{4 T\355tulo del cap\355tulo}{}% 25
+\BOOKMARK [1][-]{section.4.1}{4.1 T\355tulo de la secci\363n}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.2}{4.2 T\355tulo de la secci\363n}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter*.22}{Conclusiones y l\355neas futuras}{}% 28
+\BOOKMARK [0][-]{appendix.Alph1}{A ANEXOS}{}% 29
+\BOOKMARK [1][-]{section.Alph1.1}{A.1 ANEXO}{appendix.Alph1}% 30
+\BOOKMARK [0][-]{appendix*.23}{Bibliograf\355a}{}% 31
